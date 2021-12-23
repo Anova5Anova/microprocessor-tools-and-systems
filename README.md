@@ -1,1 +1,1 @@
-# microprocessor-tools-and-systems
+# микропроцессорные средства и системы
